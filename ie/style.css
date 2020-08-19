@@ -87,8 +87,9 @@ marquee
 
 #banner
 {
-    background:url("/title_logo.png");
+    background: url("") no-repeat;
     width: 100%;
+    
 
 }
 
